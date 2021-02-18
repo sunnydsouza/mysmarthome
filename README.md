@@ -1,7 +1,31 @@
+# HomeAssistant Configuration
 [![GitHub issues](https://img.shields.io/github/issues/sunnydsouza/mysmarthome)](https://github.com/sunnydsouza/mysmarthome/issues)
 [![GitHub forks](https://img.shields.io/github/forks/sunnydsouza/mysmarthome)](https://github.com/sunnydsouza/mysmarthome/network)
 [![GitHub stars](https://img.shields.io/github/stars/sunnydsouza/mysmarthome)](https://github.com/sunnydsouza/mysmarthome/stargazers)
 
+<!-- # Table of Contents
+   * [Home Assistant configuration](#home-assistant-configuration)
+      * [Z-Wave](#z-wave)
+      * [The key software](#the-key-software)
+      * [Floorplan](#floorplan)
+      * [Z-Wave](#z-wave-1)
+      * [Zigbee](#zigbee)
+      * [Lighting](#lighting)
+      * [Media](#media)
+      * [Notifications:](#notifications)
+      * [Presence detection:](#presence-detection)
+      * [Core integrations and APIs](#core-integrations-and-apis)
+      * [Other things](#other-things)
+      * [Custom integrations](#custom-integrations)
+         * [Standard integrations](#standard-integrations)
+      * [Other software](#other-software)
+      * [Notes](#notes)
+   * [Future plans](#future-plans)
+      * [Devices](#devices)
+      * [Automation thoughts](#automation-thoughts)
+   * [Useful links](#useful-links)
+   * [Coffee](#coffee) -->
+   
 My customized HomeAssistant setup
 Run as Hassio supervised - docker setup running on Raspberry Pi 4 - 8GB variant
 
