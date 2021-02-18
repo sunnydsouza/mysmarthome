@@ -1,4 +1,6 @@
-My cusom homeassistant dasboard setup.
+My customized HomeAssistant setup
+Run as Hassio supervised - docker setup running on Raspberry Pi 4 - 8GB variant
+
 Detailed documentation coming in soon...
 
 ## Screenshots from homeassistant setup
@@ -8,27 +10,27 @@ Detailed documentation coming in soon...
 
 ## Securiy
 * Motion sensors and the ability to toggle security modes (At Home, Night, Away)
-![Screenshot of homepage](https://github.com/sunnydsouza/mysmarthome/blob/master/images/Security.png)
+![Screenshot of security](https://github.com/sunnydsouza/mysmarthome/blob/master/images/Security.png)
 ## Rooms
 * Aggregate sensor value from custom sensor component (studyroom as a proof-of-concept, in this case) as well as the ability to switch lights and toggle between different modes (depending on your mood :-))
-![Screenshot of homepage](https://github.com/sunnydsouza/mysmarthome/blob/master/images/Rooms.png)
+![Screenshot of rooms](https://github.com/sunnydsouza/mysmarthome/blob/master/images/Rooms.png)
 ## Finance tracking
 * Custom dashboard - Integrate selenium scrapers and Google sheets integration to embed graphs and track expenses to analyze your networth and spends. Easily customizable.
 ![Screenshot of homepage](https://github.com/sunnydsouza/mysmarthome/blob/master/images/FinanceTracking.png)
 ## Lights & Switches 
-* ![Screenshot of homepage](https://github.com/sunnydsouza/mysmarthome/blob/master/images/LightSwitches1.png)
-* ![Screenshot of homepage](https://github.com/sunnydsouza/mysmarthome/blob/master/images/LightSwitches2.png)
-* ![Screenshot of homepage](https://github.com/sunnydsouza/mysmarthome/blob/master/images/LightSwitches3.png)
+* ![Screenshot of lights and switches 1](https://github.com/sunnydsouza/mysmarthome/blob/master/images/LightSwitches1.png)
+* ![Screenshot of lights and switches 2](https://github.com/sunnydsouza/mysmarthome/blob/master/images/LightSwitches2.png)
+* ![Screenshot of lights and switches 3](https://github.com/sunnydsouza/mysmarthome/blob/master/images/LightSwitches3.png)
 
 ## Monitor all devices
-* ![Screenshot of homepage](https://github.com/sunnydsouza/mysmarthome/blob/master/images/All Devices Monitoring.png)
+* ![Screenshot of monitoring all devices](https://github.com/sunnydsouza/mysmarthome/blob/master/images/All%20Devices%20Monitoring.png)
 
 ## Toggle between automation with ease
-* ![Screenshot of homepage](https://github.com/sunnydsouza/mysmarthome/blob/master/images/AllAutomations.png)
+* ![Screenshot of automations](https://github.com/sunnydsouza/mysmarthome/blob/master/images/AllAutomations.png)
 
 ## 3rd party embeds
 * Be updated with all the latest happening from curates sources (thanks to Inshorts) right within the homeassistant dashboard
-![Screenshot of homepage](https://github.com/sunnydsouza/mysmarthome/blob/master/images/EmbedInshortsNews.png)
+![Screenshot of inshorts](https://github.com/sunnydsouza/mysmarthome/blob/master/images/EmbedInshortsNews.png)
 * Track upcoming webshows/movies on all available OTT platforms right within the homeassistant dashboard
-![Screenshot of homepage](https://github.com/sunnydsouza/mysmarthome/blob/master/images/Binging.png)
+![Screenshot of binged](https://github.com/sunnydsouza/mysmarthome/blob/master/images/Binging.png)
 
