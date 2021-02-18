@@ -1,3 +1,7 @@
+[![GitHub issues](https://img.shields.io/github/issues/sunnydsouza/mysmarthome)](https://github.com/sunnydsouza/mysmarthome/issues)
+[![GitHub forks](https://img.shields.io/github/forks/sunnydsouza/mysmarthome)](https://github.com/sunnydsouza/mysmarthome/network)
+[![GitHub stars](https://img.shields.io/github/stars/sunnydsouza/mysmarthome)](https://github.com/sunnydsouza/mysmarthome/stargazers)
+
 My customized HomeAssistant setup
 Run as Hassio supervised - docker setup running on Raspberry Pi 4 - 8GB variant
 
