@@ -50,6 +50,9 @@ Detailed documentation coming in soon...
 * ![Screenshot of lights and switches 2](https://github.com/sunnydsouza/mysmarthome/blob/master/images/LightSwitches2.png)
 * ![Screenshot of lights and switches 3](https://github.com/sunnydsouza/mysmarthome/blob/master/images/LightSwitches3.png)
 
+## Ender3 3D printing
+* ![Screenshot of ender3](https://github.com/sunnydsouza/mysmarthome/blob/master/images/Ender3_3dPrinter.png)
+* 
 ## Monitor all devices
 * ![Screenshot of monitoring all devices](https://github.com/sunnydsouza/mysmarthome/blob/master/images/All%20Devices%20Monitoring.png)
 
